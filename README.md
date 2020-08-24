@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Josué Teodoro Moreira
 
-<!--
-**J0sueTM/J0sueTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎂 I'm 15 years old
+- 🔭 I'm currently studying at ETEC Armando José Farinazzo, at Fernandópolis - SP - Brazil
+- 🌱 I'm learning Software Engineering, Web development, and Competitive Programming
+- 👯 I love open-source projects and I'm trying to colaborate on any kind of repository
+- 📫 You can reach me at:
+    * Emails: jteodomo@gmail.com and josue.moreira2@etec.sp.gov.br
+    * Twitter: [twitter](http://twitter.com/jozuteomo)
+    
+Hope my repositories help you somehow 😊
