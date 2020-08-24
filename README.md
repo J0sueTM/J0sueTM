@@ -6,6 +6,6 @@
 - 👯 I love open-source projects and I'm trying to colaborate on any kind of repository
 - 📫 You can reach me at:
     * Emails: jteodomo@gmail.com and josue.moreira2@etec.sp.gov.br
-    * Twitter: [twitter](http://twitter.com/jozuteomo)
+    * Twitter: http://twitter.com/jozuteomo
     
 Hope my repositories help you somehow 😊
