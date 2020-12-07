@@ -1,4 +1,4 @@
-### Hi there dear stranger
+### Hi there
 
 [![GitHub J0sueTM](https://img.shields.io/github/followers/j0sueTM?label=follow&style=social)](https://github.com/J0sueTM)
 
