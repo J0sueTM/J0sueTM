@@ -42,3 +42,12 @@ If you want to contact me:
 [![Twitter Badge](https://img.shields.io/badge/-@jozuteomo-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/jozuteomo)](https://twitter.com/jozuteomo)
 
 [![GitHub J0sueTM](https://img.shields.io/github/followers/j0sueTM?label=follow&style=social)](https://github.com/J0sueTM)
+
+<details>
+  <summary>My Github Stats</summary>
+  <br>
+
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gbiz0&&show_icons=true&theme=dracula" alt="Gustavo Bizo Jardim's Github Stats" alt="Gustavo Bizo Jardim's Github Status" />
+  </p>
+</details> 
