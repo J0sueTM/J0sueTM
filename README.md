@@ -1,6 +1,37 @@
 ### Hi there
 
-  Glad you're reading this. My name is Josué, I'm 15 and currently studying High School and Web development [here](https://etecfernandopolis.com.br/site/inicio/). I got interested in programming a while ago, since then I spent most of my time listening to Lo-Fi, freaking out on Codeforces and studying about Data Structures and algorithms (You can find part of my work [here](https://github.com/J0sueTM/Competitive-Programming)). I'm also a linux enthusiast.
+  My name is Josué, I'm 15 and currently studying High School and Web development at [Escola Estadual de Ensino Técnico Professor Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/). I'm interested in low-level, server side, and software development.
+  
+## Technical Skills
+
+- Linux
+- Git
+- Vim, VSCode, Visual Studio, Atom, Sublime Text
+- Algorithm Analysis & Development
+
+## Programming Languages
+
+- C
+- C++
+- Java
+- Python
+- HTML/CSS
+- Javascript
+- React.js
+
+## Social Skills
+
+- Fast learning curve
+- Communication
+- Proactivity
+- Flexibility
+- Leadership
+
+## Languages
+
+- Portuguese (Native)
+- English    (Confident)
+- French     (Beginner)
 
 Hope my repositories help you somehow :)
 
