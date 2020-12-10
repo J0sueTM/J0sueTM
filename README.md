@@ -17,7 +17,6 @@
 - Python
 - HTML/CSS
 - Javascript
-- React.js
 
 ## Social Skills
 
