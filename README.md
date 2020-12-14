@@ -13,6 +13,7 @@
 
 - C
 - C++
+- Bash/Shell
 - Java
 - Python
 - HTML/CSS
