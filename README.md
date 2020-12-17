@@ -19,7 +19,7 @@
 - HTML/CSS
 - Javascript
 
-## Social Skills
+## Soft Skills
 
 - Fast learning curve
 - Communication
