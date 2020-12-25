@@ -16,6 +16,7 @@
 - Bash/Shell
 - Java
 - Python
+- Lua
 - HTML/CSS
 - Javascript
 
