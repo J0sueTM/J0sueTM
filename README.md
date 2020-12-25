@@ -1,6 +1,6 @@
 ### Hi there
 
-  My name is Josué, I'm 15 and currently studying High School and Web development at [ETEC Professor Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/). I'm interested in low-level, server side, and software development.
+  Currently studying High School and Web development at [ETEC Professor Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/). Interested in low-level, server side, and software development.
   
 ## Technical Skills
 
