@@ -1,38 +1,6 @@
 ### Hi there
 
   Currently studying High School and Web development at [ETEC Professor Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/). Interested in low-level, server side, and software development.
-  
-## Technical Skills
-
-- Linux
-- Git
-- Vim, VSCode, Visual Studio, Atom, Sublime Text
-- Algorithm Analysis & Development
-
-## Programming Languages
-
-- C
-- C++
-- Bash/Shell
-- Java
-- Python
-- Lua
-- HTML/CSS
-- Javascript
-
-## Soft Skills
-
-- Fast learning curve
-- Communication
-- Proactivity
-- Flexibility
-- Leadership
-
-## Languages
-
-- Portuguese (Native)
-- English    (Confident)
-- French     (Beginner)
 
 Hope my repositories help you somehow :)
 
