@@ -2,7 +2,7 @@
 
 Currently studying High School and Web development at [ETEC Professor Armando José Farinazzo](https://etecfernandopolis.com.br/site/inicio/). Interested in low-level, server side, and software development.
 
-Hope my repositories help you somehow :)
+I don't agree at all with Microsoft, including Github. So, I'm moving alway from this user threatning platform (including it's owner) to Gitlab. You can find me [here](https://gitlab.com/teodoro.josue).
 
 If you want to contact me:
 
