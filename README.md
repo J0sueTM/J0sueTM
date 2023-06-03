@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm a software engineer focused mainly on Backend, DevOps and Low-Level development.
+I'm a software engineer focused mainly on Backend, Embedded and DevOps.
 My stack differs based on the project I'm working on since anything works ofc, but mostly C/C++, Go, Java, Clojure, Kotlin, LISPs and Python. 
 
 If you want to contact me:
