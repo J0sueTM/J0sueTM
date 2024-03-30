@@ -1,10 +1,19 @@
-### Hi there
+### Greetings!
 
-I'm a software engineer focused mainly on Backend, Embedded and DevOps.
-My stack differs based on the project I'm working on since anything works ofc, but mostly C/C++, Go, Java, Clojure, Kotlin, LISPs and Python. 
+I'm a brazilian 🇧🇷 Software Engineer focused mainly on roles ranging between Low-Level, Desktop, Staff and Backend development.
 
-If you want to contact me:
+#### Topics of interest
 
-[![Gmail Badge](https://img.shields.io/badge/-teodoro.josue@protonmail.ch-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teodoro.josue@protonmail.ch)](mailto:teodoro.josue@protonmail.ch)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josue-teodoro-moreira/)](https://www.linkedin.com/in/josue-teodoro-moreira/) 
-[![Twitter Badge](https://img.shields.io/badge/-@J0sueTM-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/j0suetm)](https://twitter.com/j0suetm)
+I find a lot of things interesting and worth of my attention, but specifically Distributed Systems, Programming Langs. Design and Multimedia Processing.
+
+#### My stack
+
+I'm not opinionated on stack. Anything works, and I can work my way around any stack, as long as it's readable 😅. Anyways, on my own projects, I work mostly with Clojure/ClojureScript, C and Java.
+
+#### Contact
+
+[Email](mailto:teodoro.josue@pm.me), [Linkedin](linkedin.com/in/josue-teodoro-moreira), [Twitter/X](x.com/j0suetm).
+
+---
+
+Btw, I also write sometimes, you can find my articles [here (dev.to)](dev.to/j0suetm) or [here (raw markdown files)](github.com/J0sueTM/j0suetm.github.io/blob/main/resources/assets/data).
