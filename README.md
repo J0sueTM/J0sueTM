@@ -12,8 +12,8 @@ I'm not opinionated on stack. Anything works, and I can work my way around any s
 
 #### Contact
 
-[Email](mailto:teodoro.josue@pm.me), [Linkedin](linkedin.com/in/josue-teodoro-moreira), [Twitter/X](x.com/j0suetm).
+[Email](mailto:teodoro.josue@pm.me), [Linkedin](https://linkedin.com/in/josue-teodoro-moreira), [Twitter/X](https://x.com/j0suetm).
 
 ---
 
-Btw, I also write sometimes, you can find my articles [here (dev.to)](dev.to/j0suetm) or [here (raw markdown files)](github.com/J0sueTM/j0suetm.github.io/blob/main/resources/assets/data).
+Btw, I also write sometimes, you can find my articles [here (dev.to)](https://dev.to/j0suetm) or [here (raw markdown files)](https://github.com/J0sueTM/j0suetm.github.io/blob/main/resources/assets/data).
