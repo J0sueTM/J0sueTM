@@ -12,7 +12,7 @@ I'm not opinionated on stack. Anything works, and I can work my way around any s
 
 #### Contact
 
-[Email](mailto:teodoro.josue@pm.me), [Linkedin](https://linkedin.com/in/josue-teodoro-moreira), [Twitter/X](https://x.com/j0suetm).
+[Email](mailto:me@j0suetm.com), [Linkedin](https://linkedin.com/in/josue-teodoro-moreira).
 
 ---
 
