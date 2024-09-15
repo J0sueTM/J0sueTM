@@ -4,7 +4,7 @@ I'm a brazilian 🇧🇷 Software Engineer focused mainly on roles ranging betwe
 
 #### Topics of interest
 
-I find a lot of things interesting and worth of my attention, but specifically Distributed Systems, Programming Langs. Design and Multimedia Processing.
+I find a lot of things interesting and worth of my attention, but specifically Algorithms, Mathematics, Multimedia Processing and Low Level Development & Research.
 
 #### My stack
 
