@@ -1,0 +1,154 @@
+#+title: Navegando na Complexidade
+#+subtitle: Como Gerenciar o Conhecimento em Ambientes de Desenvolvimento
+#+author: Josué Teodoro Moreira
+#+date: <2024-10-11 Fri>
+
+=// CodingFerpa=
+=// 10/2024=
+
+* Quem sou eu?
+
+ [[file:/home/jtm/Downloads/pfp-small.png]]
+
+*Josué Teodoro Moreira*
+ 
+- Engenheiro de Produto @ [[https://moclojer.com][moclojer]]
+- Bacharelando em Sistemas de Informação
+- Técnico em Informática p/ Internet
+- Entusiasta de FOSS e Paradigma Funcional
+   
+[[https://j0suetm.com][j0suetm.com]] [[mailto:me@j0suetm.com][me@j0suetm.com]]
+
+* ComplexCode Incorporada Limitada
+
+- =Fabrício=, CEO
+- =Alberto=, Sênior Líder
+- =Roberta=, Estagiária
+
+* Alberto criou a codebase da ComplexCode Inc. Ltda.
+
+#+begin_source bash
+DB_PASSWORD=senha123
+ 
+docker-compose up -d database
+ 
+./meu_script123
+eval ~/script_extremamente_necessario
+ 
+./resetar_banco
+ 
+go build . && ./complexapp
+#+end_source
+
+* ComplexCode cresceu
+
+- Contrataram o =Joãozinho=!!
+ 
+Entrou como júnior, vai trabalhar como um sênior e ganhar o salário de um estagiário.
+   
+*Parabéns Joãozinho!!!*
+
+* Primeiro dia de Trabalho
+
+- J: Bom dia, como que faco pra rodar o sistema local?
+- R: Ixi, sei não. Pergunta pro Alberto.
+ 
+- J: Bom dia Alberto, como que rodo o sistema localmente?
+- A: Bom dia meu querido, você tem que ...
+
+* Conseguem ver o problema nisso?
+
+** Dependência de uma pessoa específica
+
+Hierarquia desnecessária
+
+** Ineficiência do onboarding de Joãozinho
+
+O que garante que Joãozinho terá que entrar em contato com Alberto somente pra saber os passos pra rodar localmente?
+
+** Possíveis problemas com a diferenca de setups
+
+O que garante que o script de Alberto irá rodar sem problemas no PC de Joãozinho?
+
+* Não é só sobre a integração de novos colaboradores
+
+** Documentação
+
+Por que fizemos X? O que significa Y? O que eu posso fazer com Z? O que A tem a ver com B?
+
+** Agilidade
+
+Eu preciso de B, mas só tenho A. Mas A linka B em algum lugar, logo eu já tenho B.
+
+** Unificação/Pertencimento
+
+#+begin_quote
+Quando o conhecimento flui livremente dentro de uma comunidade, ele cultiva uma cultura de inclusão e propósito compartilhado.
+
+-- Eval Hamilton
+#+end_quote
+
+* Por que isso acontece?
+
+** Entropia
+
+#+begin_quote
+Desordem ou imprevisibilidade.
+ 
+-- Dicionário Priberam da Língua Portuguesa
+#+end_quote
+
+* O que fazer?
+
+Não Priamos Cânico. Sigam-me!
+
+* Cultive o compartilhamento
+
+Nunca ache que algo é senso comum. Sempre deixe explícito como algo deve ser operado, como deve funcionar, etc.
+
+Alberto poderia muito bem ter criado um script que faria o processo de subir o ambiente local, ou pelo menos documentar sobre como fazer o processo manualmente em um local *acessível*.
+
+* Cultive a acessibilidade
+
+Onde outro ser humano logicamente procuraria uma informação que não encontrou em lugar A? Coloque essa informação lá.
+
+Alberto poderia ter colocado a documentação sobre como subir o ambiente local no README. Qualquer desenvolvedor com o mínimo de experiência olharia lá. Ou se não, na pasta docs, etc...
+
+* Cultive a simplicidade
+
+Tente agregar coisas similares em lugares similares. Não utilize múltiplos contextos e softwares diferentes para transmitir a mesma informação.
+
+- Então Joãozinho, ontem enquanto você estava doente, tivemos uma reunião. Metade da informação está nesse slide, outra nesse documento, outra nesse... por favor, não.
+
+* Cultive a comunicação assíncrona
+
+- A: Oi
+- B: Oi..?
+
+- A: Você sabe onde ta aquele negócio lá?
+- B: Ahn?
+
+- A: O negócio que sobe o ambiente no meu pc
+- B: Você quer dizer os passos pra subir o sistema localmente?
+
+- A: Issso!
+- B: Ah. Bem, você precisa ...
+
+* Cultive sua contagem de histórias (=storytelling=)
+
+É mais fácil para outro ser humano entender algo contado de forma a construir uma história, do que apenas ser bombardeado por fatos interligados de forma bruta.
+
+#+begin_source clojure
+(defn faz-algo-bizarro
+  "Baseado no input `bizarro`, utilizamos do component X para criar um software muito bom.
+
+  Apesar de a definicão de bom ser controversa, utilizamos aqui da definicão de Camus e blah blah blah"
+  [bizzaro]
+  ...)
+#+end_source
+
+* Isso é tudo pessoal!
+
+Obrigado pela atencão de vocês
+
+[[file:/home/jtm/Downloads/qrcode-meetup-clj-br-small.png]]
